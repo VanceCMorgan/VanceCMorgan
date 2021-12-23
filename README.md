@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @VanceCMorgan
 - 👀 I’m interested in IOT and Audio DSP
 - 🌱 I’m currently learning React.js and C++ (JUCE framework)
-- 📫 Contact Me: vance@bluesurge.com
-- 
+- 📫 Contact Me: vance@bluesurge.com 
